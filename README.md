@@ -3,6 +3,7 @@
 A list of projects that I'd like to work on - for my reference :)
 
 - [ ] Burlap - A simple Dependency Injection Container
+- [ ] Box - A more featureful container, built on BUrlap
 - [ ] Junction - A simple router
 - [ ] Vodka - A distributed web crawler in PHP
 - [ ] Countdown Bot - A bot that will take a string of 9 characters and find the longest word it can! For those, like me, who are rubbish at Countdown.
