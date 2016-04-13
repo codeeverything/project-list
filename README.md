@@ -2,9 +2,11 @@
 
 A list of projects that I'd like to work on - for my reference :)
 
-- [ ] Burlap - A simple Dependency Injection Container
+Ticks mean a project is in some sense "complete", but there's almost always more to do with most things!
+
+- [x] Burlap - A simple Dependency Injection Container
 - [ ] Box - A more featureful container, built on Burlap
-- [ ] Junction - A simple router
+- [x] Junction - A simple router
 - [ ] Vodka - A distributed web crawler in PHP
 - [ ] Countdown Bot - A bot that will take a string of 9 characters and find the longest word it can! For those, like me, who are rubbish at Countdown.
 - [ ] Build on Countdown Bot to produce basic spell checker
