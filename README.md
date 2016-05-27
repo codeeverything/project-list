@@ -9,6 +9,7 @@ Ticks mean a project is in some sense "complete", but there's almost always more
 - [x] Junction - A simple router
 - [ ] Vodka - A distributed web crawler in PHP
 - [x] Countdown Bot - A bot that will take a string of 9 characters and find the longest word it can! For those, like me, who are rubbish at Countdown.
+- [ ] Countdown Numbers Solver - Beat the numbers round as well! 
 - [ ] Build on Countdown Bot to produce basic spell checker
 - [ ] Ansible LAMP - Ansible roles to setup a basic LAMP environment
 - [ ] Ansible Jenkins + PHP - Ansible roles to setup a Jenkins server with additional config for PHP projects
