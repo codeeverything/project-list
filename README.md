@@ -6,14 +6,18 @@ Ticks mean a project is in some sense "complete", but there's almost always more
 
 - [x] Burlap - A simple Dependency Injection Container
 - [x] Junction - A simple router
+- [x] Planck - A small framework RESTful PHP apps
 - [ ] Vodka - A distributed web crawler in PHP
 - [x] Countdown Bot - A bot that will take a string of 9 characters and find the longest word it can! For those, like me, who are rubbish at Countdown.
 - [ ] Countdown Numbers Solver - Beat the numbers round as well! 
 - [ ] Build on Countdown Bot to produce basic spell checker
 - [ ] Ansible LAMP - Ansible roles to setup a basic LAMP environment
 - [ ] Ansible Jenkins + PHP - Ansible roles to setup a Jenkins server with additional config for PHP projects
-- [ ] Email front-end - The front-end portion of a simple SPA to list emails, done in two flavours: AngularJS and KnockoutJS
-- [ ] Email back-end - The back-end portion of a simple SPA to list emails, done in 3 flavours: NodeJS, CakePHP and Laravel
-- [x] Planck - A small framework RESTful PHP apps
 - [ ] Space Invaders - A basic clone of Space Invaders in JS
 - [ ] Contract Management System - A CRUD app for managing contacts and contracts
+- [ ] Infinite runner/jumper game
+- [ ] Movie recommendations
+- [ ] Job matching
+- [ ] Email front-end - The front-end portion of a simple SPA to list emails, done in two flavours: AngularJS and KnockoutJS
+- [ ] Email back-end - The back-end portion of a simple SPA to list emails, done in 3 flavours: NodeJS, CakePHP and Laravel
+
