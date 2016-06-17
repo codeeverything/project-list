@@ -10,7 +10,8 @@ Ticks mean a project is in some sense "complete", but there's almost always more
 - [ ] Vodka - A distributed web crawler in PHP
 - [x] Countdown Bot - A bot that will take a string of 9 characters and find the longest word it can! For those, like me, who are rubbish at Countdown.
 - [ ] Countdown Numbers Solver - Beat the numbers round as well! 
-- [ ] Build on Countdown Bot to produce basic spell checker
+- [x] Build on Countdown Bot to produce basic spell checker
+  - In the end this didn't extend from the Countdown bot, but instead after some research uses BK Tress along with Levenstein distance to find corrections
 - [ ] Ansible LAMP - Ansible roles to setup a basic LAMP environment
 - [ ] Ansible Jenkins + PHP - Ansible roles to setup a Jenkins server with additional config for PHP projects
 - [ ] Space Invaders - A basic clone of Space Invaders in JS
