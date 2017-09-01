@@ -22,4 +22,4 @@ Ticks mean a project is in some sense "complete", but there's almost always more
 - [ ] Email front-end - The front-end portion of a simple SPA to list emails, done in two flavours: AngularJS and KnockoutJS
 - [ ] Email back-end - The back-end portion of a simple SPA to list emails, done in 3 flavours: NodeJS, CakePHP and Laravel
 - [ ] PHP "Hot Module Reloading" - Take a leaf from React's hot module reloading. Can you update the output of a PHP app "live"?
-
+- [ ] Stress/load test tool (like AB or Siege), but in PHP only
