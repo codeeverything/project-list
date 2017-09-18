@@ -23,3 +23,5 @@ Ticks mean a project is in some sense "complete", but there's almost always more
 - [ ] Email back-end - The back-end portion of a simple SPA to list emails, done in 3 flavours: NodeJS, CakePHP and Laravel
 - [ ] PHP "Hot Module Reloading" - Take a leaf from React's hot module reloading. Can you update the output of a PHP app "live"?
 - [ ] Stress/load test tool (like AB or Siege), but in PHP only
+- [ ] Modern Wordpress: Rewrite to remove globals and generally follow nicer practices
+- [ ] Wordpress at scale: Automated infrastructure and services to run a Wordpress site at scale, in a cost effective way
